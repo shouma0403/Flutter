@@ -2,4 +2,3 @@
 ## ウィジェットのレイアウトデザインについて
 
 [参考URL https://flutterstudio.app/](https://flutterstudio.app/)
-___
